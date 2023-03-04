@@ -1,0 +1,17 @@
+D:\JAYprojects\AppDesign\TutProject\bin\Debug\TutProject.exe.config
+D:\JAYprojects\AppDesign\TutProject\bin\Debug\TutProject.exe
+D:\JAYprojects\AppDesign\TutProject\bin\Debug\TutProject.pdb
+D:\JAYprojects\AppDesign\TutProject\bin\Debug\TutProject.xml
+D:\JAYprojects\AppDesign\TutProject\obj\Debug\TutProject.vbprojAssemblyReference.cache
+D:\JAYprojects\AppDesign\TutProject\obj\Debug\TutProject.Resources.resources
+D:\JAYprojects\AppDesign\TutProject\obj\Debug\TutProject.vbproj.GenerateResource.cache
+D:\JAYprojects\AppDesign\TutProject\obj\Debug\TutProject.vbproj.CoreCompileInputs.cache
+D:\JAYprojects\AppDesign\TutProject\obj\Debug\TutProject.exe
+D:\JAYprojects\AppDesign\TutProject\obj\Debug\TutProject.xml
+D:\JAYprojects\AppDesign\TutProject\obj\Debug\TutProject.pdb
+D:\JAYprojects\AppDesign\TutProject\obj\Debug\TutProject.splashScreen.resources
+D:\JAYprojects\AppDesign\TutProject\obj\Debug\TutProject.MainForm.resources
+D:\JAYprojects\AppDesign\TutProject\bin\Debug\TutProjectDatabase.mdf
+D:\JAYprojects\AppDesign\TutProject\bin\Debug\TutProjectDatabase_log.ldf
+D:\JAYprojects\AppDesign\TutProject\bin\Debug\Guna.UI.dll
+D:\JAYprojects\AppDesign\TutProject\obj\Debug\TutProject.vbproj.CopyComplete
